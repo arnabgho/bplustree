@@ -1,0 +1,18 @@
+README 
+---------------------------------------------------------------
+
+Disk Based Implementation of B+ Tree.
+
+The bplustree.config file must be in the same folder as the bplus
+
+To run the files run :
+
+g++ -std=gnu++0x bplus_new_driver.cpp 
+
+For automated running and then feed the input as ./a.out <querysample.txt
+
+For a feedback based querying run : 
+
+g++ -std=gnu++0x bplus_driver.cpp 
+
+
